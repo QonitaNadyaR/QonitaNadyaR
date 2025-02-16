@@ -1,5 +1,6 @@
 # Qonita Nadya Ramadhani - Portfolio GitHub
-Selamat datang di portofolio GitHub saya! Di sini saya membagikan proyek-proyek yang saya kerjakan selama kuliah di Program Studi Informatika, Universitas Islam Negeri Sunan Kalijaga Yogyakarta.
+Selamat datang di portofolio GitHub saya!<br>
+Di sini saya membagikan proyek-proyek yang saya kerjakan selama kuliah di Program Studi Informatika, Universitas Islam Negeri Sunan Kalijaga Yogyakarta.
 
 ## Tentang Saya
 Nama saya Qonita Nadya Ramadhani, seorang mahasiswi Informatika di Universitas Islam Negeri Sunan Kalijaga Yogyakarta sejak tahun 2022. Saya tertarik dengan berbagai topik dalam dunia teknologi dan pengembangan perangkat lunak, terutama dalam hal web development.
@@ -10,3 +11,4 @@ Portofolio ini bertujuan untuk membagikan proyek-proyek kuliah yang saya kerjaka
 Jika Anda ingin berdiskusi lebih lanjut atau memiliki pertanyaan, Anda dapat menghubungi saya melalui:
 - Email: [qonitanadya14@gmail.com]
 - LinkedIn: [linkedin.com/in/nitandy]
+- Instagram: [instagram.com/qonita_.nita._/]

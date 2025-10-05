@@ -28,7 +28,7 @@ Saya berfokus pada dunia **pengembangan web** dan **rekayasa perangkat lunak**, 
 
 ## 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nodejs,express,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nodejs,express,postgres,vscode,git,github,postman" />
 </p>
 
 ---
